@@ -28,7 +28,7 @@ git clone git@github.com:J0hnZMT/Todo.git
 2. Navigate to the project directory:
 
 ```
-cd todo-api
+cd Todo
 ```
 3. Install the dependencies:
 
